@@ -1,0 +1,8 @@
+# ninja log v6
+20	1796	7517742412827908	CMakeFiles/BrainFuckLite.dir/Parser/Parser.obj	47cee4d07388bbfb
+5	2688	7517742412686326	CMakeFiles/BrainFuckLite.dir/BrainFuckLite.obj	34e9359726172df6
+14	2740	7517742412778258	CMakeFiles/BrainFuckLite.dir/Lexer/Lexer.obj	9f2a67ed39085255
+2	366	7517752582207981	build.ninja	d196000c73776d1d
+5	1574	7517750660617507	CMakeFiles/BrainFuckLite.dir/Parser/Parser.cpp.obj	b0bfc7b7911be507
+7	2237	7517750660637454	CMakeFiles/BrainFuckLite.dir/BrainFuckLite.cpp.obj	e0c125b5fe9dba86
+2	2272	7517750660597563	CMakeFiles/BrainFuckLite.dir/Lexer/Lexer.cpp.obj	50b6c8baa5035c72
